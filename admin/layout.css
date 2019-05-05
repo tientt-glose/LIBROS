@@ -1,0 +1,8 @@
+/* CSS Document */
+#hangTieuDe{background-color: #BE2A2B; color: white; font-size: 24px; padding: 10px}
+#hangMenu a{width: 200px;padding: 10px; background-color: #2F96BB; color: white;
+font-weight: bold; display: block; float: left; margin-right: 1px; text-align: center;}
+#hangMenu a:hover{background-color:  #FF0004}
+#phantrang {text-align: center}
+#phantrang a{background-color: black; color: white; padding: 5px; margin-right: 3px;}
+#phantrang a:hover{background-color:  aqua}
